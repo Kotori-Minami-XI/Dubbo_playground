@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dubbo_Demo.iml" filepath="$PROJECT_DIR$/Dubbo_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KClient/KClient.iml" filepath="$PROJECT_DIR$/KClient/KClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KServer/KServer.iml" filepath="$PROJECT_DIR$/KServer/KServer.iml" />
+    </modules>
+  </component>
+</project>
